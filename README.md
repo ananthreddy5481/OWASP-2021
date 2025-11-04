@@ -1,7 +1,7 @@
 # OWASP-2021
 
 OWASP TOP 10(2021)
-A01: 2021 - Booken Access Contsol
+A01: 2021 - Booken Access Control
 CWE → Common Weakness Enumerations
 
 It describes the specific Software weakness like bugs or pour level of coding which makes the sortware not to work pooperly.
@@ -42,6 +42,10 @@ it means of total no of applications  (94.55%) have atleast one CWE from the BAC
 
 Avg Coverage: 47.72%
 This tells That how many applications of total are subjected to the A01 (BAC) test for getting the data.
+
+
+
+
 
 
 
